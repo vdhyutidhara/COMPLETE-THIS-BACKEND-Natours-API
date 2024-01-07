@@ -1,0 +1,10 @@
+{
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+  "editor.codeLensFontFamily": "'JetBrains Mono', monospace",
+  "editor.inlayHints.fontFamily": "'JetBrains Mono', monospace",
+  "notebook.output.fontFamily": "'JetBrains Mono', monospace",
+  "errorLens.fontFamily": "'JetBrains Mono', monospace",
+  "markdown.preview.fontFamily": "'JetBrains Mono', monospace",
+  "rest-client.fontFamily": "'JetBrains Mono', monospace"
+}

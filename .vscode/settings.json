@@ -6,5 +6,25 @@
   "notebook.output.fontFamily": "'JetBrains Mono', monospace",
   "errorLens.fontFamily": "'JetBrains Mono', monospace",
   "markdown.preview.fontFamily": "'JetBrains Mono', monospace",
-  "rest-client.fontFamily": "'JetBrains Mono', monospace"
+  "rest-client.fontFamily": "'JetBrains Mono', monospace",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#65c89b",
+    "activityBar.background": "#65c89b",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#945bc4",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#65c89b",
+    "statusBar.background": "#42b883",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#359268",
+    "statusBarItem.remoteBackground": "#42b883",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#42b883",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#42b88399",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#42b883"
 }
